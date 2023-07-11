@@ -1,2 +1,1 @@
-# odin-recipes
-# Showcase how to utilize lists
+# odin-recipes. Showcase how to utilize lists
